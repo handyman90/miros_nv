@@ -1,1 +1,1 @@
-# miros_nv
+```pip install fastapi sqlalchemy pyodbc pydantic uvicorn```
